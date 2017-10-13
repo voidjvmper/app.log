@@ -1,0 +1,30 @@
+
+log		date		discipline		project			hour		description
+1		10-10-17	gamedev			Infinistellar	14			Worked on the splash screen.
+2		10-10-17	gamedev			Infinistellar	15			Worked on the splash screen.
+3		10-10-17	gamedev			Infinistellar	16			Worked on the splash screen.
+4		10-10-17	gamedev			Infinistellar	17			Worked on the splash screen.
+5		11-10-17	gamedev			Zeppelin		15			File size reduction. Converted to mp3 and deleted garbage files. Added two new levels. 
+6		11-10-17	gamedev			Zeppelin		16			Pushed v1.1: Pushed and organised on Twitter and itch.io.
+7		11-10-17	research		Workflow		17			GitHub.
+8		11-10-17	research		Branding		18			Planning new IoG&W logo.
+9		11-10-17	gamedev			SimKitty		21			Cleaning niggling issues.
+10		11-10-17	gamedev			SimKitty		22			Cleaning niggling issues.
+11		11-10-17	gamedev			SimKitty		23			Cleaning niggling issues.
+12		12-10-17	research		Game Math		8			Lecture.
+13		12-10-17	research		Game Math		9			Lecture.
+14		12-10-17	research		Game Math		10			Lab.
+15		12-10-17	research		Game Math		11			Lab.
+16		12-10-17	research		Misc Dev		18			GDC Streams at Uni: Failure of Brigador.
+17		12-10-17	research		Misc Dev		19			GDC Streams at Uni: Cheap Pore + Face Skin Maps.
+18		12-10-17	research		Misc Dev		20			GDC Streams at Uni: Uncharted 4 AI Systems.
+19		12-10-17	research		Misc Dev		21			GDC Streams at Uni: Uncharted 4 AI Systems.
+20		12-10-17	research		Misc Dev		22			GitHub Research.
+21		12-10-17	research		Misc Dev		23			GitHub Research.
+22		13-10-17	self			Workflow		14			Cleaning out Google Drive.
+23		13-10-17	self			Workflow		15			Cleaning out Google Drive.
+24		13-10-17	self			Workflow		18			Cleaning out F: Drive.
+25		13-10-17	self			Log				18			Created and formatted the log file.
+26		13-10-17	self			Ecosystem		21			Plan and organise GitHub divisions.
+27		14-10-17	self			Ecosystem		00			Deleted glassandweeds from GitHub, rebirthed it as an organisation. Created The Archivareum as well.
+
