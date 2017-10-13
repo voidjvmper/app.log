@@ -1,4 +1,4 @@
 # app.log
 Time tracking application and data log.
 
-<Fill this out at a later date.>
+Fill this out at a later date.
