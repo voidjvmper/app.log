@@ -27,4 +27,5 @@ log		date		discipline		project			hour		description
 25		13-10-17	self			Log				18			Created and formatted the log file.
 26		13-10-17	self			Ecosystem		21			Plan and organise GitHub divisions.
 27		14-10-17	self			Ecosystem		00			Deleted glassandweeds from GitHub, rebirthed it as an organisation. Created The Archivareum as well.
-
+28		14-10-17	literature			Order & Chaos		11			Wrote paragraphs.
+29		14-10-17	gamedev			Infinistellar		12			Worked on System Generation.
