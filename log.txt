@@ -11,8 +11,8 @@ log		date		discipline		project			hour		description
 9		11-10-17	gamedev			SimKitty		21			Cleaning niggling issues.
 10		11-10-17	gamedev			SimKitty		22			Cleaning niggling issues.
 11		11-10-17	gamedev			SimKitty		23			Cleaning niggling issues.
-12		12-10-17	research		Game Math		8			Lecture.
-13		12-10-17	research		Game Math		9			Lecture.
+12		12-10-17	research		Game Math		08			Lecture.
+13		12-10-17	research		Game Math		09			Lecture.
 14		12-10-17	research		Game Math		10			Lab.
 15		12-10-17	research		Game Math		11			Lab.
 16		12-10-17	research		Misc Dev		18			GDC Streams at Uni: Failure of Brigador.
@@ -30,11 +30,14 @@ log		date		discipline		project			hour		description
 28		14-10-17	literature			Order & Chaos		11			Wrote paragraphs.
 29		14-10-17	gamedev			Infinistellar		12			Worked on System Generation.
 30    16-10-17  research    Website         14      Research into Ruby on Rails and Purity.
-31    18-10-17  research    Game Math         23      Excercises
-32    18-10-17    research    Game Math       23    Excercises
-33    19-10-17    research      Game Math     9     Lecture
-34      19-10-17    research    Game Math     10    Lab
-35    19-10-17        research    Game Math   11    Lab
-36    19-10-17        research    Website   16    HTML + CSS Tutorials
-37    20-10-17        research    Website   18    Javascript
-37    20-10-17        dev    Website   21    Started rebuilding
+31    18-10-17  research    Game Math         23      Excercises.
+32    18-10-17    research    Game Math       23    Excercises.
+33    19-10-17    research      Game Math     09     Lecture.
+34      19-10-17    research    Game Math     10    Lab.
+35    19-10-17        research    Game Math   11    Lab.
+36    19-10-17        research    Website   16    HTML + CSS Tutorials.
+37    20-10-17        research    Website   18    Javascript.
+38    20-10-17        dev    Website   21    Started rebuilding.
+39    21-10-17        dev    Website   21    Rebuilding.
+40    22-10-17        dev    Website   23    File Reader.
+40    23-10-17        dev    Website   02    File Reader.
