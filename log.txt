@@ -44,3 +44,15 @@ log		date		discipline		project			hour		description
 42    		23-10-17        dev    			Website   		02    			File Reader.
 43    		23-10-17        dev    			Website   		14    			File Reader.
 44    		23-10-17        dev    			Website   		17    			File Reader.
+45        13-01-18        gamedev     Odoiporos     18          Gameplay Programming
+46        13-01-18        gamedev     Odoiporos     19          Gameplay Programming
+47        13-01-18        gamedev     Odoiporos     20          Design
+48        14-01-18        gamedev     Odoiporos     14          Gameplay Programming
+49        14-01-18        gamedev     Odoiporos     15          Events
+50        14-01-18        gamedev     Odoiporos     18          Events
+00        14-01-18        research    Team Development     21          QA in Agile Teams
+00        16-01-18        research    Vector Graphics        17          Inkscape Basics 
+00        16-01-18        research    OpenGL        21          Rendering Basics - Assignment 001      
+00        16-01-18        research    OpenGL        22          Rendering Basics - Assignment 001    
+00        16-01-18        research    OpenGL        23          Rendering Basics - Assignment 001   
+00        17-01-18        research    OpenGL        16          Rendering Basics - Assignment 001    
